@@ -1,0 +1,68 @@
+/* Hello, welcome to the stylesheet */
+#main {
+  margin: 0 auto;
+  width: 900px;
+  font-family: Helvetica, arial, sans-serif;
+  font-size: 12px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h1 {
+  font-family: Georgia, arial, Helvetica, serif;
+  text-align: center;
+  font-style: italic;
+  padding-left: 350px;
+  padding-right: 350px;
+  font-size: 3em;
+}
+
+#byline {
+  padding-left: 300px;
+}
+
+.date {
+  padding-left: 300px;
+}
+
+.megan {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 50px;
+}
+
+h2 {
+  font-family: Georgia, arial, Helvetica, serif;
+  font-size: 2em;
+}
+
+.caption {
+  margin: 0 auto;
+  width: 900px;
+}
+
+#caption {
+  margin: 0 auto;
+  width: 900px;
+  font-family: "Times New Roman", serif;
+  font-size: 1.25em;
+}
+
+.more {
+  font-size: 1.5em;
+  padding-bottom: 100px;
+}
+
+blockquote {
+  color: red;
+  font: 20px/30px "Courier New", serif;
+  font-weight: bold;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
