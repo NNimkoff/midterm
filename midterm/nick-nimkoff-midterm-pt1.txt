@@ -93,7 +93,7 @@ It allows us to make certain style types available for certain platforms like ph
 
 11. What is the main difference between a serif and a sans-serif font?
 
-Serif has points at the end of letters whereas sans-serif is just plain font without these points
+Serif has tails at the end of letters whereas sans-serif is just plain font without these tails
 
 
 12. Which of the following is a hexadecimal code?
